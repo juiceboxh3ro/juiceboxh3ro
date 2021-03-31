@@ -1,9 +1,9 @@
 ### Hi there 👋 I'm Jesse Goodburne.
 
-- 🔭 I’m currently working on: Genkan, a language & culture exchange application written in Nuxt.js (frontend), Node.js (backend), and Flutter (mobile) that I intend to move into open source soon.
-- 📖 Education: I graduated from Temple University, Japan Campus with a B.A. in Japanese Language, and shortly after got introduced to web development at Lambda School.
-- 📫 How to reach me: https://www.linkedin.com/in/jesse-goodburne/
-- 🤓 Tech I'm comfortable with:
+🔭 I’m currently working on: Genkan, a language & culture exchange application written in Nuxt.js (frontend), Node.js (backend), and Flutter (mobile) that I intend to move into open source soon.
+📖 Education: I graduated from Temple University, Japan Campus with a B.A. in Japanese Language, and shortly after got introduced to web development at Lambda School.
+📫 How to reach me: https://www.linkedin.com/in/jesse-goodburne/
+🤓 Tech I'm comfortable with:
 <ul>
   <li>Javascript</li>
   <li>Vue.js</li>
@@ -15,12 +15,13 @@
   <li>HTML</li>
   <li>CSS/SASS/Less</li>
 </ul>
-- 😵 Tech I'm learning:
+<br>
+😵 Tech I'm learning:
 <ul>
   <li>Nuxt.js</li>
   <li>GraphQL</li>
 </ul>
-<br>
+<br><br>
 <h3 align="left">Some automatically generated stats:</h3>
 <table>
   <tr>
