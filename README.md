@@ -21,8 +21,9 @@
 <br>
 😵 Tech I'm learning:
 <ul>
-  <li>Nuxt.js</li>
-  <li>GraphQL</li>
+  <li>PWA/li>
+  <li>Ruby / Rails</li>
+  <li>PHP</li>
 </ul>
 <br><br>
 <h3 align="left">Some automatically generated stats:</h3>
