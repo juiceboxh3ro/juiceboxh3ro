@@ -21,7 +21,7 @@
 <br>
 😵 Tech I'm learning:
 <ul>
-  <li>PWA/li>
+  <li>PWA</li>
   <li>Ruby / Rails</li>
   <li>PHP</li>
 </ul>
