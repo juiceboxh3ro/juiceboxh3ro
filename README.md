@@ -1,6 +1,11 @@
 ### Hi there 👋 I'm Jesse Goodburne.
 <br>
-🔭 I’m currently working on: Genkan, a language & culture exchange application written in Vue.js (frontend), Node.js (backend), and Flutter (mobile) that I intend to move into open source soon.
+🔭 I’m currently working on:
+<ul>
+  <li>Genkan, a language & culture exchange application written in Vue.js (frontend), Node.js (backend).</li>
+  <li>Ruby Shinbun, a Ruby based Discord bot which reads RSS feeds for Japanese newspapers.</li>
+  <li>Shikiji/Kioku, a tool to learn the Japanese writing system / SRS web app written in Vue.js (maybe Nuxt.js soon) with Tailwind CSS. Not sure where this one is going in the end.</li>
+</ul>
 <br>
 📖 Education: I graduated from Temple University, Japan Campus with a B.A. in Japanese Language, and shortly after got introduced to web development at Lambda School.
 <br>
@@ -10,7 +15,7 @@
 <ul>
   <li>Javascript</li>
   <li>Vue.js</li>
-  <li>Flutter / Dart</li>
+  <li>Ruby / Rails</li>
   <li>Node.js</li>
   <li>MongoDB</li>
   <li>PostgresQL</li>
@@ -21,8 +26,10 @@
 <br>
 😵 Tech I'm learning:
 <ul>
+  <li>Tailwind CSS</li>
   <li>PWA</li>
-  <li>Ruby / Rails</li>
+  <li>AWS</li>
+  <li>Flutter / Dart</li>
   <li>PHP</li>
 </ul>
 <br><br>
