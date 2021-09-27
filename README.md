@@ -21,6 +21,7 @@
   <li>PostgresQL</li>
   <li>React</li>
   <li>HTML</li>
+  <li>Semantic UI</li>
   <li>CSS/SASS/Less</li>
 </ul>
 <br>
