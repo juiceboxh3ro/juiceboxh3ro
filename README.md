@@ -28,6 +28,7 @@
 😵 Tech I'm learning:
 <ul>
   <li>Tailwind CSS</li>
+  <li>Unity / C#</li>
   <li>PWA</li>
   <li>AWS</li>
   <li>Flutter / Dart</li>
