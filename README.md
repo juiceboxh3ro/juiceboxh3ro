@@ -8,6 +8,7 @@
 <br>
 📖 Education: I graduated from Temple University, Japan Campus in 2019 with a B.A. in Japanese Language. Shortly after graduation I picked up web development and was immediately addicted.
 <br>
+<br>
 🤓 Tech I'm comfortable with:
 <ul>
   <li>Javascript</li>
