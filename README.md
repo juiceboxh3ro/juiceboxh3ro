@@ -6,32 +6,42 @@
   <li>⏸ Genkan - language & culture exchange application written in Vue.js (frontend), Node.js (backend), and Flutter.</li>
 </ul>
 <br>
-📖 Education: I graduated from Temple University, Japan Campus in 2019 with a B.A. in Japanese Language. Shortly after graduation I picked up web development and was immediately addicted, mostly to suppress the pain of Japan's borders being closed since COVID-19 started.
+🎓 Education: I graduated from Temple University, Japan Campus in 2019 with a B.A. in Japanese Language. Shortly after graduation, unable to find a job in Japan that I would enjoy doing with my skillset at the time, I picked up web development and was immediately addicted.
 <br>
 <br>
-🤓 Tech I'm comfortable with:
+🤓 I'm comfortable with:
 <ul>
-  <li>Javascript</li>
+  <li>JavaScript</li>
   <li>TypeScript</li>
-  <li>React</li>
-  <li>Vue.js</li>
+  <li>React / Next</li>
+  <li>Vue.js / Nuxt</li>
   <li>Node.js</li>
   <li>Ruby / Rails</li>
   <li>MongoDB</li>
   <li>PostgresQL</li>
   <li>HTML</li>
-  <li>Semantic UI</li>
   <li>CSS/SASS/Less</li>
   <li>Tailwind CSS</li>
 </ul>
 <br>
-😵 Tech I'm learning:
+📚 I'm learning:
 <ul>
-  <li>Docker</li>
-  <li>PWA</li>
+  <li>Docker & Kubernetes</li>
   <li>AWS</li>
+  <li>Accessibility best practices</li>
+  <li>Tensorflow</li>
+  <li>GraphQL</li>
   <li>Google Cloud</li>
   <li>Electron</li>
+  <li>Progressive Web Apps</li>
+  <li>Flutter</li>
+</ul>
+<br>
+🥲 Next:
+<ul>
+  <li>Go</li>
+  <li>C# / Unity</li>
+  <li>Rust</li>
 </ul>
 <br><br>
 <h3 align="left">Some automatically generated stats:</h3>
