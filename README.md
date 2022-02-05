@@ -2,8 +2,8 @@
 <br>
 🔭 I’m currently working on:
 <ul>
-  <li>Genkan, a language & culture exchange application written in Vue.js (frontend), Node.js (backend).</li>
-  <li>Aozora, a language learning assistant / Discord bot written in TypeScript.</li>
+  <li>Aozora ▶️ language learning assistant Discord bot written in TypeScript.</li>
+  <li>Genkan ⏸ language & culture exchange application written in Vue.js (frontend), Node.js (backend), and Flutter.</li>
 </ul>
 <br>
 📖 Education: I graduated from Temple University, Japan Campus in 2019 with a B.A. in Japanese Language. Shortly after graduation I picked up web development and was immediately addicted.
