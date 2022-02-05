@@ -3,13 +3,10 @@
 🔭 I’m currently working on:
 <ul>
   <li>Genkan, a language & culture exchange application written in Vue.js (frontend), Node.js (backend).</li>
-  <li>Ruby Shinbun, a Ruby based Discord bot which reads RSS feeds for Japanese newspapers.</li>
-  <li>Shikiji/Kioku, a tool to learn the Japanese writing system / SRS web app written in Vue.js (maybe Nuxt.js soon) with Tailwind CSS. Not sure where this one is going in the end.</li>
+  <li>Aozora, a language learning assistant / Discord bot written in TypeScript.</li>
 </ul>
 <br>
-📖 Education: I graduated from Temple University, Japan Campus with a B.A. in Japanese Language, and shortly after got introduced to web development at Lambda School.
-<br>
-📫 How to reach me: https://www.linkedin.com/in/jesse-goodburne/
+📖 Education: I graduated from Temple University, Japan Campus in 2019 with a B.A. in Japanese Language. Shortly after graduation I picked up web development and was immediately addicted.
 <br>
 🤓 Tech I'm comfortable with:
 <ul>
