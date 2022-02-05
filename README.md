@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Jesse Goodburne.
+### Hi there 👋 I'm Jesse.
 <br>
 🔭 I’m currently working on:
 <ul>
@@ -14,25 +14,26 @@
 🤓 Tech I'm comfortable with:
 <ul>
   <li>Javascript</li>
+  <li>TypeScript</li>
+  <li>React</li>
   <li>Vue.js</li>
-  <li>Ruby / Rails</li>
   <li>Node.js</li>
+  <li>Ruby / Rails</li>
   <li>MongoDB</li>
   <li>PostgresQL</li>
-  <li>React</li>
   <li>HTML</li>
   <li>Semantic UI</li>
   <li>CSS/SASS/Less</li>
+  <li>Tailwind CSS</li>
 </ul>
 <br>
 😵 Tech I'm learning:
 <ul>
-  <li>Tailwind CSS</li>
-  <li>Unity / C#</li>
+  <li>Docker</li>
   <li>PWA</li>
   <li>AWS</li>
-  <li>Flutter / Dart</li>
-  <li>PHP</li>
+  <li>Google Cloud</li>
+  <li>Electron</li>
 </ul>
 <br><br>
 <h3 align="left">Some automatically generated stats:</h3>
