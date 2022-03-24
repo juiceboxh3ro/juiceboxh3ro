@@ -20,28 +20,19 @@
   <li>MongoDB</li>
   <li>PostgresQL</li>
   <li>HTML</li>
-  <li>CSS/SASS/Less</li>
+  <li>CSS/SASS/Less/Styled Components</li>
   <li>Tailwind CSS</li>
 </ul>
 <br>
 📚 I'm learning:
 <ul>
-  <li>Docker & Kubernetes</li>
-  <li>AWS</li>
-  <li>Accessibility best practices</li>
-  <li>Tensorflow</li>
-  <li>GraphQL</li>
-  <li>Google Cloud</li>
-  <li>Electron</li>
-  <li>Progressive Web Apps</li>
+  <li>Elixir/Phoenix</li>
   <li>Flutter</li>
-</ul>
-<br>
-🥲 Next:
-<ul>
-  <li>Go</li>
-  <li>C# / Unity</li>
-  <li>Rust</li>
+  <li>Accessibility best practices</li>
+  <li>Docker & Kubernetes</li>
+  <li>Google Cloud</li>
+  <li>AWS</li>
+  <li>Progressive Web Apps</li>
 </ul>
 <br><br>
 <h3 align="left">Some automatically generated stats:</h3>
