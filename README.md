@@ -7,11 +7,11 @@
   <p>Current passion project: language learning tools (word/sentence translation, reading helpers, flash cards, and more) and Discord bot written in TypeScript with API written in Elixir/Phoenix.</p>
   <h4>⏸ Genkan - https://github.com/genkan-language-exchange</h4>
   <p>Japanese for "entryway" (<ruby>玄<rt>gen</rt>関<rt>kan</rt></ruby>), and contraction/play on words of "language exchange": <ruby>言<rt>gen</rt>語<rt>go</rt>交<rt>kou</rt>換<rt>kan</rt></ruby> → <ruby>言<rt>gen</rt>換<rt>kan</rt></ruby>.</p>
-  <p>Language & culture exchange application, including user curated/created language and culture lessons. Web app written in Vue.js, backend in Node.js, and mobile app in Flutter. Project on hold while I learn Elixir and more Flutter.</p>
+  <p>Language & culture exchange application. Features include public story posting, communities around interests, and user curated/created language and culture lessons. Web app written in Vue.js, backend in Node.js, and mobile app in Flutter. Project on hold while I learn Elixir and more Flutter, although my frustrations towards HelloTalk may bring it out of hiatus sooner 😊</p>
   <hr>
 
   <h3>🎓 Education:</h3>
-  <p>I graduated from Temple University, Japan Campus in 2019 with a B.A. in Japanese Language. Shortly after graduation, unable to find a job in Japan that I would enjoy doing with my skillset at the time, I picked up web development and was immediately addicted.</p>
+  <p>I graduated from Temple University, Japan Campus in 2019 with a B.A. in Japanese Language. Throughout my time there I kept wanting to get into programming, and I first tried with Objective C and then C# / Unity in my senior year, but I found it difficult to keep up with university studies and still have energy for studying programming on the side. Shortly after graduation, unable to find a job in Japan that I would enjoy doing with my language-based skillset at the time, I picked up web development starting with some Udemy courses and was immediately addicted.</p>
   <hr>
   <h3>🤩 Excited about:</h3>
   <p>As a habitual expat / Japanese major who has been studying Japanese since 2011, Korean since 2013, and various other languages along the way, I'm drawn towards projects which enable people to study foreign languages more easily and efficiently than what traditional education offers, or to share their culture and learn about other cultures.</p>
