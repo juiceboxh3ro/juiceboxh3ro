@@ -2,9 +2,9 @@
   <h2>Hi there 👋 I'm Jesse.</h2>
 
   <h3>🚀 I’m currently working on:</h3>
-  <h4>▶️ Aozora</h4>
+  <h4>▶️ Aozora - https://github.com/juiceboxh3ro/aozora</h4>
   <p>current passion project: language learning tools and Discord bot written in TypeScript with API written in Elixir/Phoenix.</p>
-  <h4>⏸ Genkan</h4>
+  <h4>⏸ Genkan - https://github.com/genkan-language-exchange</h4>
   <p>language & culture exchange application: web app written in Vue.js, backend in Node.js, and mobile app in Flutter. Project on hold while I learn Elixir and more Flutter.</p>
   <hr>
 
