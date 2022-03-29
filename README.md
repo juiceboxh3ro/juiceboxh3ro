@@ -3,7 +3,7 @@
 
   <h3>🚀 I’m currently working on:</h3>
   <h4>▶️ Aozora - https://github.com/juiceboxh3ro/aozora</h4>
-  <p>Japanese for "blue sky" (<ruby>青空<rt>あおぞら</rt></ruby>).</p>
+  <p>Japanese for "blue sky" (<ruby>青<rt>푸른</rt>空<rt>하늘</rt></ruby>).</p>
   <p>Current passion project: language learning tools (word/sentence translation, reading helpers, flash cards, and more) and Discord bot written in TypeScript with API written in Elixir/Phoenix.</p>
   <h4>⏸ Genkan - https://github.com/genkan-language-exchange</h4>
   <p>Japanese for "entryway", and contraction/play on words of "language exchange" (<ruby>言<rt>gen</rt>語<rt>go</rt>交<rt>kou</rt>換<rt>kan</rt></ruby>).</p>
