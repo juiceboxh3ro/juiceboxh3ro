@@ -6,7 +6,7 @@
   <p>Japanese for "blue sky" (<ruby>青空<rt>あおぞら</rt></ruby>).</p>
   <p>Current passion project: language learning tools (word/sentence translation, reading helpers, flash cards, and more) and Discord bot written in TypeScript with API written in Elixir/Phoenix.</p>
   <h4>⏸ Genkan - https://github.com/genkan-language-exchange</h4>
-  <p>Japanese for "entryway", and contraction/play on words of "language exchange" (<ruby>言語<rt>げんご</rt>交換<rt>こうかん</rt></ruby> gen-go kou-kan).</p>
+  <p>Japanese for "entryway", and contraction/play on words of "language exchange" (<ruby>言<rt>gen</rt>語<rt>go</rt>交<rt>kou</rt>換<rt>kan</rt></ruby>).</p>
   <p>Language & culture exchange application, including user curated/created language and culture lessons. Web app written in Vue.js, backend in Node.js, and mobile app in Flutter. Project on hold while I learn Elixir and more Flutter.</p>
   <hr>
 
