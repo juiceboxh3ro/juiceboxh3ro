@@ -26,7 +26,7 @@
 <br>
 📚 I'm learning:
 <ul>
-  <li>Elixir/Phoenix</li>
+  <li>Elixir / Phoenix</li>
   <li>Flutter</li>
   <li>Accessibility best practices</li>
   <li>Docker & Kubernetes</li>
