@@ -23,7 +23,7 @@
   <hr>
 
   <h3>🎓 Education:</h3>
-  <p>I graduated from Temple University, Japan Campus in 2019 with a B.A. in Japanese Language (3.21 GPA 🙌). Throughout my time there I kept wanting to get into programming, and I first tried with Objective C and then C# / Unity in my senior year, but I found it difficult to keep up with university studies and still have energy for studying programming on the side. Shortly after graduation, unable to find a job in Japan that I would enjoy doing with my language-based skillset at the time, I picked up web development starting with some Udemy courses and was immediately addicted. </p>
+  <p>I graduated from Temple University, Japan Campus in 2019 with a B.A. in Japanese Language (3.21 GPA 🙌). Throughout my time there I kept wanting to get into programming. I first tried with Objective C, then C# / Unity in my senior year, but I found it difficult to keep up with university studies and still have energy for studying programming on the side. Shortly after graduation, unable to find a job in Japan that I would enjoy doing with my language-based skillset at the time, I picked up web development starting with some Udemy courses and was immediately addicted. </p>
   <hr>
   <h3>🤩 Excited about:</h3>
   <p>As a habitual expat / Japanese major who has been studying Japanese since 2011, Korean since 2013, and various other languages along the way, I'm drawn towards projects which enable people to study foreign languages in a more engaging, modern, and current year way than what I was offered in high school and university, to share their culture and learn about other cultures. Essentially I'm passionate about enabling people to educate themselves and learn about the world.</p>
