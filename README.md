@@ -2,15 +2,18 @@
   <h2>Hi there 👋 I'm Jesse.</h2>
 
   <h3>🚀 I’m currently working on:</h3>
-  <p>▶️ Aozora - current passion project: language learning tools and Discord bot written in TypeScript with API written in Elixir/Phoenix.</p>
-  <p>⏸ Genkan - language & culture exchange application: web app written in Vue.js, backend in Node.js, and mobile app in Flutter. Project on hold while I learn Elixir and more Flutter.</p>
+  <h4>▶️ Aozora</h4>
+  <p>current passion project: language learning tools and Discord bot written in TypeScript with API written in Elixir/Phoenix.</p>
+  <h4>⏸ Genkan</h4>
+  <p>language & culture exchange application: web app written in Vue.js, backend in Node.js, and mobile app in Flutter. Project on hold while I learn Elixir and more Flutter.</p>
+  <hr>
 
   <h3>🎓 Education:</h3>
   <p>I graduated from Temple University, Japan Campus in 2019 with a B.A. in Japanese Language. Shortly after graduation, unable to find a job in Japan that I would enjoy doing with my skillset at the time, I picked up web development and was immediately addicted.</p>
-
+  <hr>
   <h3>🤩 Excited about:</h3>
-  <p>I'm drawn towards projects which enable people to study foreign languages more easily and efficiently than what traditional education offers, or to share their culture and learn about other cultures.</p>
-
+  <p>As a habitual expat / Japanese major who has been studying Japanese since 2011, Korean since 2013, and various other languages along the way, I'm drawn towards projects which enable people to study foreign languages more easily and efficiently than what traditional education offers, or to share their culture and learn about other cultures.</p>
+  <hr>
   <h3>😌 I'm comfortable with:</h3>
   <table>
     <thead>
@@ -53,7 +56,7 @@
       </tr>
     </tbody>
   </table>
- 
+  <hr>
   <h3>📚 I'm learning:</h3>
   <ul>
     <li>Elixir / Phoenix</li>
@@ -66,7 +69,7 @@
     <li>Progressive Web Apps</li>
   </ul>
 </div>
-
+<hr>
 <h3 align="left">Some automatically generated stats:</h3>
 <table>
   <tr>
