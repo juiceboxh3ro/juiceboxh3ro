@@ -2,7 +2,7 @@
 <br>
 🔭 I’m currently working on:
 <ul>
-  <li>▶️ Aozora - language learning assistant Discord bot written in TypeScript.</li>
+  <li>▶️ Aozora - language learning assistant; Discord bot written in TypeScript & API written in Elixir/Phoenix.</li>
   <li>⏸ Genkan - language & culture exchange application written in Vue.js (frontend), Node.js (backend), and Flutter.</li>
 </ul>
 <br>
