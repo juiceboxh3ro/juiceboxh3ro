@@ -48,6 +48,7 @@
   <h3>I'm learning:</h3>
   <ul>
     <li>Elixir / Phoenix</li>
+    <li>Socket.IO / Websockets</li>
     <li>Flutter</li>
     <li>Accessibility best practices</li>
     <li>Docker & Kubernetes</li>
