@@ -13,28 +13,28 @@
   <h3>I'm comfortable with:</h3>
   <table>
     <tr>
-      <th>🖥 Frontend</th>
-      <th>🎨 Styling</th>
+      <th>🖥 Frontend / PWA</th>
       <th>⌨️ Backend</th>
       <th>📀 Databases</th>
+      <th>🎨 Styling</th>
     </tr>
     <tr>
       <td>JavaScript</td>
-      <td>Styled Components / Twin.Macro / Emotion</td>
       <td>Node.js</td>
       <td>MongoDB</td>
+      <td>Styled Components / Twin.Macro / Emotion</td>
     </tr>
     <tr>
       <td>TypeScript</td>
-      <td>Tailwind CSS</td>
       <td>Express.js</td>
       <td>PostgresQL</td>
+      <td>Tailwind CSS</td>
     </tr>
     <tr>
       <td>React / Next</td>
-      <td>CSS / Sass / Less</td>
       <td>Ruby / Rails</td>
       <td></td>
+      <td>CSS / Sass / Less</td>
     </tr>
     <tr>
       <td>Vue.js / Nuxt</td>
