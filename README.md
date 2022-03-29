@@ -12,21 +12,21 @@
   <p>Language & culture exchange application. Features include public story posting, sharing a story with communities around specific interests, and user curated/created language and culture lessons. Web app written in Vue.js, backend in Node.js, and mobile app in Flutter. Project on hold while I learn Elixir and more Flutter, although my frustrations towards HelloTalk may bring it out of hiatus sooner 😊</p>
 
   <h4>🔓 P<sup>3</sup> (Personal Project Philosophies)</h4>
-  <p>I've decided to keep the source code (excluding project secrets like database passwords and API keys) for these and most future projects public so that:
+  <p>I've decided to keep the source code (excluding environment secrets) for these and most future projects public so that:
     <ol>
       <li>if they ever gain traction, there is full transparency about what user information is gathered and how it is used.</li>
       <li>anyone who wants to create their own version of them can have a source of inspiration or a starting point.</li>
       <li>anyone who wants to learn how to, for example, make a Discord bot in Typescript, can look at my source code and work out a solution for their project.</li>
     </ol>
   </p>
-  <p>I'm not so much interested in contributions but opening an Issue on features/bugs is always welcome! <em>(as long as they're constructively / politely written)</em></p>
+  <p>I'm not so much interested in contributions, since I don't have the energy to read Pull Requests and verify code integrity, but opening an Issue on features/bugs is always welcome! <em>(as long as they're constructively / politely written)</em></p>
   <hr>
 
   <h3>🎓 Education:</h3>
-  <p>I graduated from Temple University, Japan Campus in 2019 with a B.A. in Japanese Language. Throughout my time there I kept wanting to get into programming, and I first tried with Objective C and then C# / Unity in my senior year, but I found it difficult to keep up with university studies and still have energy for studying programming on the side. Shortly after graduation, unable to find a job in Japan that I would enjoy doing with my language-based skillset at the time, I picked up web development starting with some Udemy courses and was immediately addicted.</p>
+  <p>I graduated from Temple University, Japan Campus in 2019 with a B.A. in Japanese Language (3.21 GPA 🙌). Throughout my time there I kept wanting to get into programming, and I first tried with Objective C and then C# / Unity in my senior year, but I found it difficult to keep up with university studies and still have energy for studying programming on the side. Shortly after graduation, unable to find a job in Japan that I would enjoy doing with my language-based skillset at the time, I picked up web development starting with some Udemy courses and was immediately addicted. </p>
   <hr>
   <h3>🤩 Excited about:</h3>
-  <p>As a habitual expat / Japanese major who has been studying Japanese since 2011, Korean since 2013, and various other languages along the way, I'm drawn towards projects which enable people to study foreign languages more easily and efficiently than what traditional education offers, or to share their culture and learn about other cultures.</p>
+  <p>As a habitual expat / Japanese major who has been studying Japanese since 2011, Korean since 2013, and various other languages along the way, I'm drawn towards projects which enable people to study foreign languages in a more engaging, modern, and current year way than what I was offered in high school and university, to share their culture and learn about other cultures. Essentially I'm passionate about enabling people to educate themselves and learn about the world.</p>
   <hr>
   <h3>😌 I'm comfortable with:</h3>
   <table>
