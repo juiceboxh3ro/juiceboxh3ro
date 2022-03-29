@@ -20,7 +20,7 @@
   <li>MongoDB</li>
   <li>PostgresQL</li>
   <li>HTML</li>
-  <li>CSS/SASS/Less/Styled Components</li>
+  <li>CSS / SASS / Less / Styled Components</li>
   <li>Tailwind CSS</li>
 </ul>
 <br>
