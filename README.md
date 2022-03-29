@@ -2,12 +2,18 @@
   <h2>Hi there 👋 I'm Jesse.</h2>
 
   <h3>🚀 I’m currently working on:</h3>
+
   <h4>▶️ Aozora - https://github.com/juiceboxh3ro/aozora</h4>
   <p>Japanese for "blue sky" (<ruby>青<rt>푸른</rt>空<rt>하늘</rt></ruby>).</p>
   <p>Current passion project: language learning tools (word/sentence translation, reading helpers, flash cards, and more) and Discord bot written in TypeScript with API written in Elixir/Phoenix.</p>
+
   <h4>⏸ Genkan - https://github.com/genkan-language-exchange</h4>
   <p>Japanese for "entryway" (<ruby>玄<rt>gen</rt>関<rt>kan</rt></ruby>), and contraction/play on words of "language exchange": <ruby>言<rt>gen</rt>語<rt>go</rt>交<rt>kou</rt>換<rt>kan</rt></ruby> → <ruby>言<rt>gen</rt>換<rt>kan</rt></ruby>.</p>
-  <p>Language & culture exchange application. Features include public story posting, communities around interests, and user curated/created language and culture lessons. Web app written in Vue.js, backend in Node.js, and mobile app in Flutter. Project on hold while I learn Elixir and more Flutter, although my frustrations towards HelloTalk may bring it out of hiatus sooner 😊</p>
+  <p>Language & culture exchange application. Features include public story posting, sharing a story with communities around specific interests, and user curated/created language and culture lessons. Web app written in Vue.js, backend in Node.js, and mobile app in Flutter. Project on hold while I learn Elixir and more Flutter, although my frustrations towards HelloTalk may bring it out of hiatus sooner 😊</p>
+
+  <h4>🔓 P<sup>3</sup> (Personal Project Philosophies)</h4>
+  <p>I've decided to keep the source code for these (and most future) projects public so that, if they ever gain traction, there is full transparency about what user information is saved and how it is used, and so that anyone who wants to create their own version of it can have a source of inspiration or a starting point, and also so that anyone who wants to learn how to, for example, make a Discord bot in Typescript, can look at my source code and work out a solution for their project.</p>
+  <p>I'm not so much interested in contributions but opening an Issue on features/bugs is always welcome! <em>(as long as they're constructively / politely written)</em></p>
   <hr>
 
   <h3>🎓 Education:</h3>
