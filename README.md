@@ -11,15 +11,6 @@
   <p>Japanese for "entryway" (<ruby>玄<rt>gen</rt>関<rt>kan</rt></ruby>), and contraction/play on words of "language exchange": <ruby>言<rt>gen</rt>語<rt>go</rt>交<rt>kou</rt>換<rt>kan</rt></ruby> → <ruby>言<rt>gen</rt>換<rt>kan</rt></ruby>.</p>
   <p>Language & culture exchange application. Features include public story posting, sharing a story with communities around specific interests, and user curated/created language and culture lessons. Web app written in Vue.js, backend in Node.js, and mobile app in Flutter. Project on hold while I learn Elixir and more Flutter, although my frustrations towards HelloTalk may bring it out of hiatus sooner 😊</p>
 
-  <h4>🔓 P<sup>3</sup> (Personal Project Philosophies)</h4>
-  <p>I've decided to keep the source code (excluding environment secrets) for these and most future projects public so that:
-    <ol>
-      <li>if they ever gain traction, there is full transparency about what user information is gathered and how it is used.</li>
-      <li>anyone who wants to create their own version of them can have a source of inspiration or a starting point.</li>
-      <li>anyone who wants to learn how to, for example, make a Discord bot in Typescript, can look at my source code and work out a solution for their project.</li>
-    </ol>
-  </p>
-  <p>I'm not so much interested in contributions, since I don't have the energy to read Pull Requests and verify code integrity, but opening an Issue on features/bugs is always welcome! <em>(as long as they're constructively / politely written)</em></p>
   <hr>
 
   <h3>🎓 Education:</h3>
