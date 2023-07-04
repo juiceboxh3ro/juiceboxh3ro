@@ -33,7 +33,7 @@
     <tbody>
       <tr>
         <td>JavaScript</td>
-        <td>Flutter / Dart</td>
+        <td>React Native</td>
         <td>Node.js</td>
         <td>MongoDB</td>
         <td>Styled Components / Twin.Macro / Emotion</td>
@@ -55,6 +55,13 @@
       <tr>
         <td>Vue.js / Nuxt</td>
         <td></td>
+        <td>Elixir / Phoenix</td>
+        <td></td>
+        <td></td>
+      </tr>
+      <tr>
+        <td>Sveltekit</td>
+        <td></td>
         <td></td>
         <td></td>
         <td></td>
@@ -64,14 +71,9 @@
   <hr>
   <h3>📚 I'm learning:</h3>
   <ul>
-    <li>Elixir / Phoenix</li>
-    <li>Socket.IO / Websockets</li>
-    <li>Flutter</li>
-    <li>Accessibility best practices</li>
-    <li>Docker & Kubernetes</li>
-    <li>Google Cloud</li>
-    <li>AWS</li>
-    <li>Progressive Web Apps</li>
+    <li>C#</li>    
+    <li>Unity</li>
+    <li>Lua</li>
   </ul>
 </div>
 <hr>
